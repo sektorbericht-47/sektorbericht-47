@@ -9,14 +9,14 @@ I love building responsive, and visually appealing web interfaces with a strong 
 ## My Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
 </p>
 
 ---
 
 ## About Me
 -  **Frontend Developer** specializing in modern web technologies  
--  Experience with **React**, **Next.js**, and **UI frameworks**  
+-  Experience with **React** and **UI frameworks**  
 -  Love for **UI design**, I've been UI designing for a While now on Figma!
 
 ---

@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I am sektorbericht
 
-<!--
-**sektorbericht-47/sektorbericht-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 18-year-old Frontend Developer
 
-Here are some ideas to get you started:
+I love building responsive, and visually appealing web interfaces with a strong focus on **UI/UX**, **performance**, and **clean code**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma" />
+</p>
+
+---
+
+## About Me
+-  **Frontend Developer** specializing in modern web technologies  
+-  Experience with **React**, **Next.js**, and **UI frameworks**  
+-  Love for **UI design**, I've been UI designing for a While now on Figma!
+
+---
+
+## 📂 Projects
+Explore my repositories for:
+- Frontend components  
+- UI experiments  
+- Modern web applications  
+
+---
+
+## 📫 Contact
+- GitHub: [sektorbericht](https://github.com/sektorbericht-47)
+- Open for collaborations, Contact me if you like to.

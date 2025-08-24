@@ -2,7 +2,7 @@
 
 ### 18 y/o Frontend Dev
 
-I love building responsive, web interfaces with a strong focus on **UI/UX**, **performance**, and **clean code**.
+You can find out more about me on here! ;)
 
 ---
 

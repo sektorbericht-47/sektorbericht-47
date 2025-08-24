@@ -31,6 +31,6 @@ Explore my repositories for:
 
 ## 📫 Contact
 - GitHub: [sektorbericht-47](https://github.com/sektorbericht-47)
-- Discord: sektorbericht
 - Email: sektorbericht@gmail.com
+- Discord: sektorbericht
 - Open for collaborations, Contact me if you like to.

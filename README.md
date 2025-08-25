@@ -15,9 +15,9 @@ You can find out more about me on here! ;)
 ---
 
 ## 🌏 About Me
--  **Frontend Developer** specializing in modern web technologies  
--  Experience with **React** and **UI frameworks**  
--  Love for **UI design**, I've been UI designing for a While now on Figma, e.g For german FiveM servers ;)
+-  Self taught **Frontend Developer**
+-  I make UI designs on Figma mostly, and use the designs to make the Frontend.
+-  I can Speak German, English, French and Turkish
 
 ---
 
